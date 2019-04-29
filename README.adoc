@@ -1,0 +1,3 @@
+= Code example for a blog post
+
+This is the code example for the following blog post::
